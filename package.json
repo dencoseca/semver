@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "minor-release": "standard-version --release-as minor",
+    "major-release": "standard-version --release-as major"
   },
   "keywords": [],
   "author": "",
