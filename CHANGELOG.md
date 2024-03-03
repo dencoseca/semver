@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/dencoseca/semver/compare/v2.1.0...v2.2.0) (2024-03-03)
+
+
+### Features
+
+* **CDM-6733:** new feature 4 ([8d76337](https://github.com/dencoseca/semver/commit/8d763372fcdf40e2cd6fe57157397abaf581fd30))
+* **CDM-67834:** new feature 3 ([08937de](https://github.com/dencoseca/semver/commit/08937de0406a06adf4204f94f57a82b55f7089e7))
+
 ## [2.1.0](https://github.com/dencoseca/semver/compare/v2.0.1...v2.1.0) (2024-03-03)
 
 
